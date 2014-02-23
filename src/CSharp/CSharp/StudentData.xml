@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Students>
+  <Student>
+    <ID>1</ID>
+    <FirstName>Saifurahman</FirstName>
+    <LastName>Faizi</LastName>
+    <City>Kabul</City>
+    <Gender>Male</Gender>
+    <Pincode>12345</Pincode>
+    <MobileNo>8888-8888</MobileNo>
+  </Student>
+  <Student>
+    <ID>2</ID>
+    <FirstName>Choong</FirstName>
+    <LastName>Peng Ken</LastName>
+    <City>Kuala Lumpur</City>
+    <Gender>Male</Gender>
+    <Pincode>52100</Pincode>
+    <MobileNo>0193-0193-63</MobileNo>
+  </Student>
+  <Student>
+    <ID>q</ID>
+    <FirstName>z</FirstName>
+    <LastName>z</LastName>
+    <City>Kuala Lumpur</City>
+    <Gender>Female</Gender>
+    <Pincode>z</Pincode>
+    <MobileNo>z</MobileNo>
+  </Student>
+</Students>

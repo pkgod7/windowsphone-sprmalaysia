@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Voters>
+  <Voter>
+    <nric>123</nric>
+    <name>Saifurahman Faizi</name>
+    <gender>Male</gender>
+    <parlimen>101-BUKIT JALIL</parlimen>
+  </Voter>
+  <Voter>
+    <nric>999</nric>
+    <name>Abu Bakar</name>
+    <gender>Male</gender>
+    <parlimen>104-KELANA JAYA</parlimen>
+  </Voter>
+</Voters>

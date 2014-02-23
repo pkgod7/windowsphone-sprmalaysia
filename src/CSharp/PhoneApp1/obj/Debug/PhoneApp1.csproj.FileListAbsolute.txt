@@ -1,0 +1,26 @@
+C:\Users\pkGod\documents\visual studio 2010\Projects\CSharp\PhoneApp1\Bin\Debug\ApplicationIcon.png
+C:\Users\pkGod\documents\visual studio 2010\Projects\CSharp\PhoneApp1\Bin\Debug\Background.png
+C:\Users\pkGod\documents\visual studio 2010\Projects\CSharp\PhoneApp1\Bin\Debug\PhoneApp1.dll
+C:\Users\pkGod\documents\visual studio 2010\Projects\CSharp\PhoneApp1\Bin\Debug\PhoneApp1.pdb
+C:\Users\pkGod\documents\visual studio 2010\Projects\CSharp\PhoneApp1\Bin\Debug\AppManifest.xaml
+C:\Users\pkGod\documents\visual studio 2010\Projects\CSharp\PhoneApp1\Bin\Debug\PhoneApp1.xap
+C:\Users\pkGod\documents\visual studio 2010\Projects\CSharp\PhoneApp1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pkGod\documents\visual studio 2010\Projects\CSharp\PhoneApp1\obj\Debug\App.g.i.cs
+C:\Users\pkGod\documents\visual studio 2010\Projects\CSharp\PhoneApp1\obj\Debug\MainPage.g.i.cs
+C:\Users\pkGod\documents\visual studio 2010\Projects\CSharp\PhoneApp1\obj\Debug\PhoneApp1.g.resources
+C:\Users\pkGod\documents\visual studio 2010\Projects\CSharp\PhoneApp1\obj\Debug\PhoneApp1.dll
+C:\Users\pkGod\documents\visual studio 2010\Projects\CSharp\PhoneApp1\obj\Debug\PhoneApp1.pdb
+C:\Users\pkGod\documents\visual studio 2010\Projects\CSharp\PhoneApp1\obj\Debug\XapCacheFile.xml
+C:\Users\pkgod\Downloads\J2ME-1 SPR\PhoneApp1\Bin\Debug\ApplicationIcon.png
+C:\Users\pkgod\Downloads\J2ME-1 SPR\PhoneApp1\Bin\Debug\Background.png
+C:\Users\pkgod\Downloads\J2ME-1 SPR\PhoneApp1\Bin\Debug\PhoneApp1.dll
+C:\Users\pkgod\Downloads\J2ME-1 SPR\PhoneApp1\Bin\Debug\PhoneApp1.pdb
+C:\Users\pkgod\Downloads\J2ME-1 SPR\PhoneApp1\Bin\Debug\AppManifest.xaml
+C:\Users\pkgod\Downloads\J2ME-1 SPR\PhoneApp1\Bin\Debug\PhoneApp1.xap
+C:\Users\pkgod\Downloads\J2ME-1 SPR\PhoneApp1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pkgod\Downloads\J2ME-1 SPR\PhoneApp1\obj\Debug\App.g.i.cs
+C:\Users\pkgod\Downloads\J2ME-1 SPR\PhoneApp1\obj\Debug\MainPage.g.i.cs
+C:\Users\pkgod\Downloads\J2ME-1 SPR\PhoneApp1\obj\Debug\PhoneApp1.g.resources
+C:\Users\pkgod\Downloads\J2ME-1 SPR\PhoneApp1\obj\Debug\PhoneApp1.dll
+C:\Users\pkgod\Downloads\J2ME-1 SPR\PhoneApp1\obj\Debug\PhoneApp1.pdb
+C:\Users\pkgod\Downloads\J2ME-1 SPR\PhoneApp1\obj\Debug\XapCacheFile.xml

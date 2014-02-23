@@ -1,0 +1,10 @@
+C:\Users\pkGod\documents\visual studio 2010\Projects\CSharp\CSharp\bin\CSharp.dll
+C:\Users\pkGod\documents\visual studio 2010\Projects\CSharp\CSharp\bin\CSharp.pdb
+C:\Users\pkGod\documents\visual studio 2010\Projects\CSharp\CSharp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pkGod\documents\visual studio 2010\Projects\CSharp\CSharp\obj\Debug\CSharp.dll
+C:\Users\pkGod\documents\visual studio 2010\Projects\CSharp\CSharp\obj\Debug\CSharp.pdb
+C:\Users\pkgod\Downloads\J2ME-1 SPR\CSharp\bin\CSharp.dll
+C:\Users\pkgod\Downloads\J2ME-1 SPR\CSharp\bin\CSharp.pdb
+C:\Users\pkgod\Downloads\J2ME-1 SPR\CSharp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pkgod\Downloads\J2ME-1 SPR\CSharp\obj\Debug\CSharp.dll
+C:\Users\pkgod\Downloads\J2ME-1 SPR\CSharp\obj\Debug\CSharp.pdb
